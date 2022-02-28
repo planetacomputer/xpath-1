@@ -1,1 +1,0 @@
-#28 instituto.xml Ciclos Formativos de Grado Medio (se trata de obtener el elemento <ciclo> completo)

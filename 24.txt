@@ -1,1 +1,0 @@
-#24 cuentabancaria.xml Extraer la cantidad (solo el numero) depositada en la cuenta 20-A

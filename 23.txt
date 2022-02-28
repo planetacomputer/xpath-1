@@ -1,1 +1,0 @@
-#23 inventario.xml  Extraer el código de los productos que pesen más de un cuarto de kilo..
